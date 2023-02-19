@@ -1,6 +1,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="./assets/vs-icon.vsg" alt="VS Code" width="40" height="40"/>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="assets/vs-icon.svg" alt="VS Code" width="40" height="40"/>
 
 
 <br>
