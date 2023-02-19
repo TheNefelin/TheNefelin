@@ -4,6 +4,8 @@
 </h2>
 
 <h3 align="center">Languages and Tools:</h3>
+
+<div align="center">
 <a href="https://visualstudio.microsoft.com/es/vs/" target="_blank"> <img src="assets/l-csharp.svg" alt="C#" height="40px"/>
 <a href="https://visualstudio.microsoft.com/es/vs/" target="_blank"> <img src="assets/l-vbdot.png" alt="Visual Basic" height="40px"/>
 <a href="https://www.w3schools.com/" target="_blank"> <img src="assets/l-css.png" alt="CSS" height="40px"/>
@@ -19,7 +21,8 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="assets/t-mysql.svg" alt="MySql" height="40px"/>
 <a href="https://git-scm.com/" target="_blank"> <img src="assets/t-git.svg" alt="Git" height="40px"/>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="assets/t-bootstrap.svg" alt="Bootstrap" height="40px"/>
-<a href="https://unity.com/" target="_blank"> <img src="assets/t-unity.svg" alt="Unity" height="40px"/>
+<a href="https://unity.com/" target="_blank"> <img src="assets/t-unity.png" alt="Unity" height="40px"/>
+<div>
 
 <hr/>
   
