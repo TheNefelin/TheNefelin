@@ -18,7 +18,7 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="assets/t-mysql.svg" alt="MySql" height="40px"/>
 <a href="https://git-scm.com/" target="_blank"> <img src="assets/t-git.svg" alt="Git" height="40px"/>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="assets/t-bootstrap.svg" alt="Bootstrap" height="40px"/>
-<a href="https://unity.com/" target="_blank"> <img src="assets/t-unity.png" alt="Unity" height="40px"/>
+<a href="https://unity.com/" target="_blank"> <img src="assets/t-unity.png" alt="Unity" height="40px"/> </a>
 <div>
 
 <hr/>
