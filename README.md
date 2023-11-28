@@ -34,4 +34,4 @@
 
 <img src="assets/a-hizoka.png" alt="hizoka" height="100px"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNefelin&layout=compact&text_color=daf7dc&bg_color=151515" alt="rishavchanda" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNefelin&layout=compact&text_color=daf7dc&bg_color=151515" alt="rishavchanda" />
