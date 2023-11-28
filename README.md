@@ -1,5 +1,4 @@
-[![MasterHead](https://img.itch.zone/aW1nLzEzNTQ4OTc5LmdpZg==/original/mU2LrB.gif)](https://www.francisco-dev.cl/)
-
+<a href="https://www.francisco-dev.cl" target="_blank"> <img src="assets/a-background.png" alt="The Nefelin"/> </a>
 
 <h1 align="center">Hi!!!, I'm Francisco Carmona</h1>
 <h2 align="center">A software developer in constant learning.</h2>
