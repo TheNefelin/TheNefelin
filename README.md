@@ -30,6 +30,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNefelin&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
+</div>
+
 <img src="assets/a-hizoka.png" alt="hizoka" height="100px"/>
 
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNefelin&layout=compact&text_color=daf7dc&bg_color=151515" alt="rishavchanda" /></p>
