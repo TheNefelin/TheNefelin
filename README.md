@@ -32,6 +32,8 @@
 
 </div>
 
-<img src="assets/a-hizoka.png" alt="hizoka" height="100px"/>
 
+<div style="display: flex; justify-content: space-around; width: 100%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNefelin&layout=compact&text_color=daf7dc&bg_color=151515" alt="rishavchanda" />
+<img src="assets/a-hizoka.png" alt="hizoka" height="100px"/>
+</div>
