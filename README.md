@@ -26,20 +26,8 @@
 
 <hr/>
   
-<div style="display:inline; width:100%">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNefelin&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
-
-</div>
-
-
-<div style="display: flex; justify-content: space-around; width: 100%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNefelin&layout=compact&text_color=daf7dc&bg_color=151515" alt="rishavchanda" />
-<img src="assets/a-hizoka.png" alt="hizoka" height="100px"/>
-</div>
-
-<div style="display: flex; justify-content: space-around; width: 100%;">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNefelin&layout=compact&text_color=daf7dc&bg_color=151515" alt="the nefelin" />
-  &nbsp
+  &nbsp &nbsp &nbsp &nbsp &nbsp
   <img src="assets/a-hizoka.png" alt="hizoka" height="100px"/>
 </div>
