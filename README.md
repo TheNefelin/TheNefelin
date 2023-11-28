@@ -27,7 +27,7 @@
 <hr/>
   
 <div>
-  <img src="assets/a-gon.png" alt="gon" height="100px"/>
+  <img src="assets/a-gon.png" alt="gon" height="80px"/>
   &nbsp &nbsp &nbsp &nbsp &nbsp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNefelin&layout=compact&text_color=daf7dc&bg_color=151515" alt="the nefelin" />
   &nbsp &nbsp &nbsp &nbsp &nbsp
