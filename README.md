@@ -10,6 +10,7 @@
 <a href="https://www.w3schools.com/" target="_blank"> <img src="assets/l-css.png" alt="CSS" height="40px"/> </a>
 <a href="https://www.w3schools.com/" target="_blank"> <img src="assets/l-html.png" alt="HTML" height="40px"/> </a>
 <a href="https://www.w3schools.com/" target="_blank"> <img src="assets/l-javascript.svg" alt="JS" height="40px"/> </a>
+<img src="l-typescript.svg" alt="gon" height="40px"/>
 
 <a href="https://visualstudio.microsoft.com/es/vs/" target="_blank"> <img src="assets/t-vs-studio.svg" alt="Visual Studio" height="40px"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="assets/t-vs-code.png" alt="VS Code" height="40px"/> </a>
@@ -21,6 +22,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="assets/t-git.svg" alt="Git" height="40px"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="assets/t-bootstrap.svg" alt="Bootstrap" height="40px"/> </a>
 <a href="https://unity.com/" target="_blank"> <img src="assets/t-unity.png" alt="Unity" height="40px"/> </a>
+<a href="https://angular.dev/" target="_blank"> <img src="assets/t-angular.svg" alt="Angular" height="40px"/> </a>
 <div>
 
 <hr/>
