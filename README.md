@@ -12,7 +12,7 @@
 <img src="assets/l-javascript.svg" alt="JS" height="40px"/>
 <img src="assets/l-typescript.svg" alt="TS" height="40px"/>
 
-<a href="https://visualstudio.microsoft.com/es/vs/" target="_blank"> <img src="assets/t-vs-studio.svg" alt="Visual Studio" height="40px"/> </a>
+<a href="https://visualstudio.microsoft.com/es/vs/" target="_blank"><img src="assets/t-vs-studio.svg" alt="Visual Studio" height="40px"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="assets/t-vs-code.png" alt="VS Code" height="40px"/> </a>
 <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank"> <img src="assets/t-sql-server.png" alt="SQL Server" height="40px"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="assets/t-dotnet.svg" alt="dot NET" height="40px"/> </a>
