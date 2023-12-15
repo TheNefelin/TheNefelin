@@ -5,12 +5,12 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <div align="center">
-<a href="https://visualstudio.microsoft.com/es/vs/" target="_blank"> <img src="assets/l-csharp.svg" alt="C#" height="40px"/> </a>
-<a href="https://visualstudio.microsoft.com/es/vs/" target="_blank"> <img src="assets/l-vbdot.png" alt="Visual Basic" height="40px"/> </a>
-<a href="https://www.w3schools.com/" target="_blank"> <img src="assets/l-css.png" alt="CSS" height="40px"/> </a>
-<a href="https://www.w3schools.com/" target="_blank"> <img src="assets/l-html.png" alt="HTML" height="40px"/> </a>
-<a href="https://www.w3schools.com/" target="_blank"> <img src="assets/l-javascript.svg" alt="JS" height="40px"/> </a>
-<img src="l-typescript.svg" alt="gon" height="40px"/>
+<img src="assets/l-csharp.svg" alt="C#" height="40px"/>
+<img src="assets/l-vbdot.png" alt="VB" height="40px"/>
+<img src="assets/l-css.png" alt="CSS" height="40px"/>
+<img src="assets/l-html.png" alt="HTML" height="40px"/>
+<img src="assets/l-javascript.svg" alt="JS" height="40px"/>
+<img src="assets/l-typescript.svg" alt="TS" height="40px"/>
 
 <a href="https://visualstudio.microsoft.com/es/vs/" target="_blank"> <img src="assets/t-vs-studio.svg" alt="Visual Studio" height="40px"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="assets/t-vs-code.png" alt="VS Code" height="40px"/> </a>
