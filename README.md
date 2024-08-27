@@ -3,14 +3,9 @@
 <h1 align="center">
   Hi!!!, I'm Francisco Carmona <br>
 </h1>
-
 <h2 align="center">A software developer in constant learning.</h2>
-<a href="https://www.acreditta.com/credential/63c99def-c48d-4495-aab5-00a3158d10a0">
-  <img src="assets/TD_JS.png" alt="Descripción de la imagen" height="100px">
-</a>
 
 <h3 align="center">Languages and Tools</h3>
-
 <div align="center">
 <img src="assets/l-csharp.svg" alt="C#" height="40px"/>
 <img src="assets/l-vbdot.png" alt="VB" height="40px"/>
@@ -38,7 +33,7 @@
   <img src="assets/a-gon.png" alt="gon" height="80px"/>
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNefelin&layout=compact&text_color=daf7dc&bg_color=151515" alt="the nefelin" />
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="assets/a-hizoka.png" alt="hizoka" height="100px"/>
 </div>
 
@@ -51,3 +46,10 @@
 </div>
 
 <img src="https://github-profile-trophy.vercel.app/?username=TheNefelin&theme=juicyfresh&no-bg=true" />
+
+
+<div align="center">
+<a href="https://www.acreditta.com/credential/63c99def-c48d-4495-aab5-00a3158d10a0">
+  <img src="assets/TD_JS.png" alt="Descripción de la imagen" height="100px">
+</a>
+</div>
