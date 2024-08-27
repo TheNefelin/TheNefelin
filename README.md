@@ -1,7 +1,11 @@
 <a href="https://www.francisco-dev.cl" target="_blank"> <img src="assets/a-background.png" alt="The Nefelin"/> </a>
 
-<h1 align="center">Hi!!!, I'm Francisco Carmona</h1>
+<h1 align="center">
+  Hi!!!, I'm Francisco Carmona <br>
+</h1>
+
 <h2 align="center">A software developer in constant learning.</h2>
+
 <h3 align="center">Languages and Tools:</h3>
 
 <div align="center">
@@ -23,14 +27,21 @@
 <a href="https://getbootstrap.com/" target="_blank"><img src="assets/t-bootstrap.svg" alt="Bootstrap" height="40px"/></a>
 <a href="https://unity.com/" target="_blank"><img src="assets/t-unity.png" alt="Unity" height="40px"/></a>
 <a href="https://angular.dev/" target="_blank"><img src="assets/t-angular.svg" alt="Angular" height="40px"/></a>
-<div>
+</div>
 
 <hr/>
   
-<div>
+<div align="center">
   <img src="assets/a-gon.png" alt="gon" height="80px"/>
-  &nbsp &nbsp &nbsp &nbsp
+  &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNefelin&layout=compact&text_color=daf7dc&bg_color=151515" alt="the nefelin" />
-  &nbsp &nbsp &nbsp &nbsp &nbsp
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="assets/a-hizoka.png" alt="hizoka" height="100px"/>
 </div>
+
+<hr/>
+
+<a href="https://www.acreditta.com/credential/63c99def-c48d-4495-aab5-00a3158d10a0">
+  <img src="assets/TD_JS.png" alt="Descripción de la imagen" height="100px">
+</a>
+
