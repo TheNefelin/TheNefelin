@@ -5,8 +5,11 @@
 </h1>
 
 <h2 align="center">A software developer in constant learning.</h2>
+<a href="https://www.acreditta.com/credential/63c99def-c48d-4495-aab5-00a3158d10a0">
+  <img src="assets/TD_JS.png" alt="Descripción de la imagen" height="100px">
+</a>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 
 <div align="center">
 <img src="assets/l-csharp.svg" alt="C#" height="40px"/>
@@ -38,12 +41,6 @@
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="assets/a-hizoka.png" alt="hizoka" height="100px"/>
 </div>
-
-<hr/>
-
-<a href="https://www.acreditta.com/credential/63c99def-c48d-4495-aab5-00a3158d10a0">
-  <img src="assets/TD_JS.png" alt="Descripción de la imagen" height="100px">
-</a>
 
 <hr/>
 
