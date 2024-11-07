@@ -40,16 +40,16 @@
 <hr/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TheNefelin&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-
-<img src="https://myreadme.vercel.app/api/embed/TheNefelin?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheNefelin&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 </div>
 
 <img src="https://github-profile-trophy.vercel.app/?username=TheNefelin&theme=juicyfresh&no-bg=true" />
 
-
 <div align="center">
-<a href="https://www.acreditta.com/credential/63c99def-c48d-4495-aab5-00a3158d10a0">
-  <img src="assets/TD_JS.png" alt="Descripción de la imagen" height="100px">
-</a>
+  <a href="https://www.acreditta.com/credential/63c99def-c48d-4495-aab5-00a3158d10a0">
+    <img src="assets/TD_JS.png" alt="JavaScript" height="100px">
+  </a>
+  <a href="https://www.acreditta.com/credential/67c91ad1-66c6-4fbd-9319-0bc7e3ad89f3">
+    <img src="assets/TD_JS.png" alt="Java SpringBoot" height="100px">
+  </a>
 </div>
