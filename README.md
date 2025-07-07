@@ -27,7 +27,7 @@
 <a href="https://angular.dev/" target="_blank"><img src="assets/t-angular.svg" alt="Angular" height="40px"/></a>
 </div>
 
-<hr/>
+---
   
 <div align="center">
   <img src="assets/a-gon.png" alt="gon" height="80px"/>
@@ -37,35 +37,13 @@
   <img src="assets/a-hizoka.png" alt="hizoka" height="100px"/>
 </div>
 
-<hr/>
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheNefelin&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 </div>
 
 <img src="https://github-profile-trophy.vercel.app/?username=TheNefelin&theme=juicyfresh&no-bg=true" />
-
-<div align="center">
-  <a href="https://www.acreditta.com/credential/63c99def-c48d-4495-aab5-00a3158d10a0" style="display: inline-block; text-align: center; margin: 0 10px;">
-    <img src="assets/TD_JS.png" alt="JavaScript" height="100px" style="display: block; margin: 0 auto;">
-    <div style="margin-top: 5px;">JavaScript</div>
-  </a>
-  <a href="https://www.acreditta.com/credential/67c91ad1-66c6-4fbd-9319-0bc7e3ad89f3" style="display: inline-block; text-align: center; margin: 0 10px;">
-    <img src="assets/TD_JS.png" alt="Java SpringBoot" height="100px" style="display: block; margin: 0 auto;">
-    <div style="margin-top: 5px;">Java SpringBoot</div>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://www.acreditta.com/credential/63c99def-c48d-4495-aab5-00a3158d10a0" style="float: left; text-align: center; margin: 0 10px;">
-    <img src="assets/TD_JS.png" alt="JavaScript" height="100px" style="display: block; margin: 0 auto;">
-    JavaScript
-  </a>
-  <a href="https://www.acreditta.com/credential/67c91ad1-66c6-4fbd-9319-0bc7e3ad89f3" style="float: left; text-align: center; margin: 0 10px;">
-    <img src="assets/TD_JS.png" alt="Java SpringBoot" height="100px" style="display: block; margin: 0 auto;">
-    Java SpringBoot
-  </a>
-<div style="clear: both;"></div> </div>
 
 <div align="center">
   <table>
