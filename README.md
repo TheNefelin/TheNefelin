@@ -55,3 +55,14 @@
     <div style="margin-top: 5px;">Java SpringBoot</div>
   </a>
 </div>
+
+<div align="center">
+  <a href="https://www.acreditta.com/credential/63c99def-c48d-4495-aab5-00a3158d10a0" style="float: left; text-align: center; margin: 0 10px;">
+    <img src="assets/TD_JS.png" alt="JavaScript" height="100px" style="display: block; margin: 0 auto;">
+    JavaScript
+  </a>
+  <a href="https://www.acreditta.com/credential/67c91ad1-66c6-4fbd-9319-0bc7e3ad89f3" style="float: left; text-align: center; margin: 0 10px;">
+    <img src="assets/TD_JS.png" alt="Java SpringBoot" height="100px" style="display: block; margin: 0 auto;">
+    Java SpringBoot
+  </a>
+<div style="clear: both;"></div> </div>
