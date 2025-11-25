@@ -1,4 +1,4 @@
-<a href="https://www.francisco-dev.cl" target="_blank"> <img src="./assets/a-background.png" alt="The Nefelin"/> </a>
+<a href="https://www.francisco-dev.cl"> <img src="assets/a-background.png" alt="The Nefelin"/> </a>
 
 <h1 align="center">
   Hi!!!, I'm Francisco Carmona <br>
@@ -14,17 +14,17 @@
 <img src="assets/l-javascript.svg" alt="JS" height="40px"/>
 <img src="assets/l-typescript.svg" alt="TS" height="40px"/>
 
-<a href="https://visualstudio.microsoft.com/es/vs/" target="_blank"><img src="assets/t-vs-studio.svg" alt="Visual Studio" height="40px"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="assets/t-vs-code.png" alt="VS Code" height="40px"/></a>
-<a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank"><img src="assets/t-sql-server.png" alt="SQL Server" height="40px"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="assets/t-dotnet.svg" alt="dot NET" height="40px"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="assets/t-react.svg" alt="React" height="40px"/></a>
-<a href="https://nodejs.org/es/" target="_blank"><img src="assets/t-node.png" alt="Node" height="40px"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="assets/t-mysql.svg" alt="MySql" height="40px"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="assets/t-git.svg" alt="Git" height="40px"/></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="assets/t-bootstrap.svg" alt="Bootstrap" height="40px"/></a>
-<a href="https://unity.com/" target="_blank"><img src="assets/t-unity.png" alt="Unity" height="40px"/></a>
-<a href="https://angular.dev/" target="_blank"><img src="assets/t-angular.svg" alt="Angular" height="40px"/></a>
+<a href="https://visualstudio.microsoft.com/es/vs/"><img src="assets/t-vs-studio.svg" alt="Visual Studio" height="40px"/></a>
+<a href="https://code.visualstudio.com/"><img src="assets/t-vs-code.png" alt="VS Code" height="40px"/></a>
+<a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads"><img src="assets/t-sql-server.png" alt="SQL Server" height="40px"/></a>
+<a href="https://code.visualstudio.com/"><img src="assets/t-dotnet.svg" alt="dot NET" height="40px"/></a>
+<a href="https://reactjs.org/"><img src="assets/t-react.svg" alt="React" height="40px"/></a>
+<a href="https://nodejs.org/es/"><img src="assets/t-node.png" alt="Node" height="40px"/></a>
+<a href="https://www.mysql.com/"><img src="assets/t-mysql.svg" alt="MySql" height="40px"/></a>
+<a href="https://git-scm.com/"><img src="assets/t-git.svg" alt="Git" height="40px"/></a>
+<a href="https://getbootstrap.com/"><img src="assets/t-bootstrap.svg" alt="Bootstrap" height="40px"/></a>
+<a href="https://unity.com/"><img src="assets/t-unity.png" alt="Unity" height="40px"/></a>
+<a href="https://angular.dev/"><img src="assets/t-angular.svg" alt="Angular" height="40px"/></a>
 </div>
 
 ---
