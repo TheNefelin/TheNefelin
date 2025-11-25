@@ -32,7 +32,11 @@
 <div align="center">
   <img src="assets/a-gon.png" alt="gon" height="80px"/>
   &nbsp; &nbsp; &nbsp; &nbsp;
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNefelin&layout=compact&text_color=daf7dc&bg_color=151515" alt="the nefelin" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="the nefelin" />
+
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="assets/a-hizoka.png" alt="hizoka" height="100px"/>
 </div>
