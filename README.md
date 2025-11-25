@@ -1,4 +1,4 @@
-<a href="https://www.francisco-dev.cl" target="_blank"> <img src="assets/a-background.png" alt="The Nefelin"/> </a>
+<a href="https://www.francisco-dev.cl" target="_blank"> <img src="./assets/a-background.png" alt="The Nefelin"/> </a>
 
 <h1 align="center">
   Hi!!!, I'm Francisco Carmona <br>
@@ -50,19 +50,19 @@
     <tr>
       <td align="center">
         <a href="https://www.acreditta.com/credential/63c99def-c48d-4495-aab5-00a3158d10a0">
-          <img src="assets/TD_JS.webp" alt="JavaScript" height="100px"><br>
+          <img src="assets/TD_JS.webp" alt="JavaScript" height="200px"><br>
           JavaScript
         </a>
       </td>
       <td align="center">
         <a href="https://www.acreditta.com/credential/67c91ad1-66c6-4fbd-9319-0bc7e3ad89f3">
-          <img src="assets/TD_Java.webp" alt="Java SpringBoot" height="100px"><br>
+          <img src="assets/TD_Java.webp" alt="Java SpringBoot" height="200px"><br>
           Java SpringBoot
         </a>
       </td>
       <td align="center">
         <a href="https://www.acreditta.com/credential/0e81008b-e358-44f9-a9af-67b667adc802">
-          <img src="assets/TD_AWS.webp" alt="AWS" height="100px"><br>
+          <img src="assets/TD_AWS.webp" alt="AWS" height="200px"><br>
           AWS
         </a>
       </td>
